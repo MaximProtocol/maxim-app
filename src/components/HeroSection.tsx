@@ -62,6 +62,9 @@ export function HeroSection() {
               Solana and every agent provisioned with a programmable wallet
               and configurable spend controls.
             </p>
+            <p className="mt-4 text-[16px] text-white/60">
+              FMUfhLrPvSSxaMhVvaZbqXjmpZfE41ZSyRfwvoMZpump
+            </p>
           </FadeIn>
 
           <FadeIn delay={200}>
