@@ -9,7 +9,7 @@ const navItems = [
   { label: "Roadmap", href: "/roadmap" },
   { label: "Smart Contracts", href: "https://solscan.io/account/337JEF6PSMGSPwBSseMHFa95YxLACnJeehA5brVAgzKh?cluster=devnet" },
   { label: "Docs", href: "https://docs.maximprotocol.com" },
-  { label: "GitHub", href: "https://github.com/maximprotocol-org" },
+  { label: "GitHub", href: "https://github.com/maximprotocol" },
   { label: "X", href: "https://x.com/maximprotocol" },
 ] as const;
 
